@@ -1,0 +1,63 @@
+{
+  "format": "pandlee-inflow-session",
+  "schema_version": 1,
+  "save_kind": "full",
+  "session_id": "",
+  "branch_id": "main",
+  "turn": 0,
+  "checkpoint_id": null,
+  "parent_checkpoint_id": null,
+  "play_status": "active",
+  "preferences": {
+    "narration": "first-person",
+    "tone": "冒险、悬念、可改命",
+    "power_mode": "成长",
+    "ruling_mode": "因果裁定",
+    "media": "optional"
+  },
+  "player": {
+    "identity": "玩家本人",
+    "chosen_desire": null,
+    "condition": [],
+    "abilities": [],
+    "inventory": [],
+    "resources": {}
+  },
+  "current": {
+    "world_id": "",
+    "world_version_or_au": "",
+    "location": "",
+    "node_id": "",
+    "public_objectives": [],
+    "objective_evidence": [],
+    "clocks": [],
+    "last_action": null,
+    "scene_summary": "",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "自由行动：直接说我想怎么做。"
+    }
+  },
+  "known": {
+    "observed_facts": [],
+    "testimonies": [],
+    "hypotheses": []
+  },
+  "npcs": [],
+  "worlds": [],
+  "promises_and_pending": [],
+  "recent_events": [],
+  "settlements_applied": [],
+  "gm_facts": {
+    "arc_question": "",
+    "arc_resolution_conditions": [],
+    "locked_truths": [],
+    "unrevealed_facts": [],
+    "faction_actions": [],
+    "available_routes": [],
+    "failure_and_exit_conditions": []
+  },
+  "rule_revisions": []
+}

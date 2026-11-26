@@ -1,0 +1,60 @@
+{
+  "snapshot_date": "2026-11-24",
+  "kind": "project_distillations_not_novel_full_text",
+  "historical_links": "Source documents retain original historical links. External targets are not runtime dependencies.",
+  "novel_scopes": {
+    "无限恐怖": "用户提供TXT，项目研究已见终结段；不保证与官方终版逐字一致。",
+    "罪名不朽": "2026-11-17截至目录463章的连载快照，酆都未完；不是完本研究。"
+  },
+  "files": [
+    {
+      "project_source": "无限流写作研究/无限恐怖/六视角精读/主笔总论.md",
+      "bundled_path": "references/source-distillations/无限恐怖/六视角主笔总论.md",
+      "bytes": 30413,
+      "sha256": "2bd03c2b0a2dcabf0008a9acf15d942b13cd7e0ab21d9e1b471b18cb95344a18",
+      "role": "unaltered_project_distillation"
+    },
+    {
+      "project_source": "无限流写作研究/无限恐怖/全书因果与手法演进.md",
+      "bundled_path": "references/source-distillations/无限恐怖/全书因果与手法演进.md",
+      "bytes": 21475,
+      "sha256": "35eb275a1d8d4dcb10198d48811e5c6fde8d64442a4e718998f09b39ea228785",
+      "role": "unaltered_project_distillation"
+    },
+    {
+      "project_source": "无限流写作研究/无限恐怖/开局与逐副本精读/逐副本精读总览.md",
+      "bundled_path": "references/source-distillations/无限恐怖/逐副本精读总览.md",
+      "bytes": 15420,
+      "sha256": "45609f614eec4b2dbbb0b388a479ee4903507509672b53844a729301defebebc",
+      "role": "unaltered_project_distillation"
+    },
+    {
+      "project_source": "无限流写作研究/罪名不朽/独立蒸馏_2026-11-17/研究总论.md",
+      "bundled_path": "references/source-distillations/罪名不朽/研究总论.md",
+      "bytes": 16658,
+      "sha256": "49d4c76ff4ab0f271ab6e8d852c9a81a0387ca7c434ed2cbdadbfd943a2a47d4",
+      "role": "unaltered_project_distillation"
+    },
+    {
+      "project_source": "无限流写作研究/罪名不朽/独立蒸馏_2026-11-17/各副本的追读与情绪推进.md",
+      "bundled_path": "references/source-distillations/罪名不朽/各副本的追读与情绪推进.md",
+      "bytes": 12542,
+      "sha256": "0a4c427accb1d5495b1cfb64bf1e5a757afde057af86a23c2e88be57e2bcee6e",
+      "role": "unaltered_project_distillation"
+    },
+    {
+      "project_source": "无限流写作研究/罪名不朽/独立蒸馏_2026-11-17/可迁移写法.md",
+      "bundled_path": "references/source-distillations/罪名不朽/可迁移写法.md",
+      "bytes": 11909,
+      "sha256": "bebed4aab8d299871ebcd10e11e66f7193bfa61b4d8192f5785b1418282898fe",
+      "role": "unaltered_project_distillation"
+    },
+    {
+      "project_source": "无限流写作研究/两书会师_2026-11-18/共同结论与写作运用.md",
+      "bundled_path": "references/source-distillations/两书会师/共同结论与写作运用.md",
+      "bytes": 13613,
+      "sha256": "6f992dc9908a248b033e9a5d974460b88d6b95b82c5ccbd2b0f9242db16766df",
+      "role": "unaltered_project_distillation"
+    }
+  ]
+}

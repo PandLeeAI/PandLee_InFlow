@@ -1,0 +1,4 @@
+interface:
+  display_name: "PandLee_InFlow"
+  short_description: "以四选一和自由行动进入无限世界，改写副本、积累伙伴与奖励，并通过存档持续冒险"
+  default_prompt: "使用 $pandlee-inflow 开始一场无限流文字游戏，让我以第一人称进入世界，每轮给我 A、B、C 和 D 自由行动。"
